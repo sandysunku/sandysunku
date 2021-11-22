@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="profileimage.jpg">
+<p align="Right">
+  <img src="profileimg.jpg" height="400">
 </p>
