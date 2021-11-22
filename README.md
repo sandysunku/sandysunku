@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="profilebackground.jpg">
+  <img src="profileimage.jpg">
 </p>
