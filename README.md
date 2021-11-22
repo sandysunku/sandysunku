@@ -1,3 +1,3 @@
 <p align="Right">
-  <img src="profileimg.jpg" height="400">
+  <img src="profileimg.jpg" height="350">
 </p>
