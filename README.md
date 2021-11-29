@@ -1,3 +1,3 @@
-<p align="Right">
-  <img src="bg.jpg" height="350">
+<p align="Left">
+  <img src="bg.jpg" height="400" width="900">
 </p>
